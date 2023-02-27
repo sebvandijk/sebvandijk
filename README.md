@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebvandijk
 - 👀 I’m interested in PHP, Wordpress, bootstrapping
 - 🌱 I’m currently learning to say no
-- 💞️ I’m looking to collaborate on a laravel prokect
+- 💞️ I’m looking to collaborate on a laravel project
 - 📫 How to reach me: seb - at - developr.nl
 
 
